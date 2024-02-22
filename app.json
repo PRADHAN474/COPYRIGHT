@@ -11,19 +11,19 @@
   ],
   "env": {
     "BOT_TOKEN": {
-      "description": "Telegram bot token",
+      "description": "7167596392:AAHCoW0eGmdMIrVMULIQdqDqv3JOrlpCvFE",
       "required": true
     },
     "SUPPORT_GROUP_LINK": {
-      "description": "Support group link",
+      "description": "https://t.me/CHATTING_2024",
       "required": true
     },
     "LOGS_GROUP_LINK": {
-      "description": "Logs group link",
+      "description": "https://t.me/CHATTING_2024",
       "required": true
     },
     "OWNER_ID": {
-      "description": "Owner's Telegram ID",
+      "description": "5059737154",
       "required": true
     }
   }
