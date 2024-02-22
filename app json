@@ -1,0 +1,30 @@
+{
+  "name": "your-heroku-app-name",
+  "description": "Your bot description",
+  "repository": "https://github.com/your-github-PRADHAN474/COPYRIGHT",
+  "image": "heroku/python",
+  "addons": [],
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ],
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Telegram bot token",
+      "required": true
+    },
+    "SUPPORT_GROUP_LINK": {
+      "description": "Support group link",
+      "required": true
+    },
+    "LOGS_GROUP_LINK": {
+      "description": "Logs group link",
+      "required": true
+    },
+    "OWNER_ID": {
+      "description": "Owner's Telegram ID",
+      "required": true
+    }
+  }
+}
