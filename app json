@@ -1,7 +1,7 @@
 {
   "name": "bot",
   "description": "Your bot description",
-  "repository": "https://github.com/PRADHAN474/COPYRIGHT.git",
+  "repository": "https://github.com/PRADHAN474/COPYRIGHT",
   "image": "heroku/python",
   "addons": [],
   "buildpacks": [
